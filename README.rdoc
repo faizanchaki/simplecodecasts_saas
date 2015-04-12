@@ -1,7 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Easeful Project Application
+Subscription based rails application
+http://easeful.com
 
 Things you may want to cover:
 
